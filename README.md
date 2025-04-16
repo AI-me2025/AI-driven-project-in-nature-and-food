@@ -17,5 +17,5 @@ What next? In the future, the app could: Integrate more external plant databases
 
 What would be needed to move forward? To further develop the app, expertise in plant biology, AI plant identification models, and more plant data would be required. Collaboration with sustainability and plant experts would provide further insights and data to improve the app's functionality. 
 
-Name suggestions: Sveriges lilla vilda, Plockbart, Närplockat, Lättplockat. Please help! I want to see my app doing good for real, our country need this app to be alive. :-) 
+Name suggestions: Sveriges lilla vilda, Plockbart, Närplockat, Lättplockat. So far...
 ...
